@@ -1,6 +1,7 @@
 ## my name is <del>Jeff</del> Galih Krisna Aji 👋
 
- 🇮🇩 <br>
+<img src="https://github.com/hampusborgos/country-flags/blob/main/png250px/id.png" title="Java" alt="Java" width="40" height="40"/>&nbsp; 🇮🇩 <br>
+ 
 I have interest Web Development. More focused on Front-End Engineer, like the contribution of open source projects.
 
 
