@@ -1,8 +1,6 @@
 ## my name is <del>Jeff</del> Galih Krisna Aji 👋
 
 <img src="https://github.com/hampusborgos/country-flags/blob/main/png250px/id.png" title="Java" alt="Java" width="40" height="40"/>&nbsp; 🇮🇩 <br>
- 
-I have interest Web Development. More focused on Front-End Engineer, like the contribution of open source projects.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -16,7 +14,7 @@ I have interest Web Development. More focused on Front-End Engineer, like the co
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="CI" **alt="Codeigniter" width="40" height="40"/>
 </div>
-
+---
 <div align="center">
   <img src="https://media.giphy.com/media/fHWZdSc7viZJumuGbr/giphy.gif" width="200"/>
    i think that's it!
