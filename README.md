@@ -14,7 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="CI" **alt="Codeigniter" width="40" height="40"/>
 </div>
----
+
 <div align="center">
   <img src="https://media.giphy.com/media/fHWZdSc7viZJumuGbr/giphy.gif" width="200"/>
    i think that's it!
