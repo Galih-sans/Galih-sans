@@ -1,7 +1,9 @@
-### Hi there 👋
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/fHWZdSc7viZJumuGbr/giphy.gif" width="200"/>
-</div>
+## my name is <del>Jeff</del> Galih Krisna Aji 👋
+
+ 🇮🇩 <br>
+I have interest Web Development. More focused on Front-End Engineer, like the contribution of open source projects.
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -15,6 +17,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="CI" **alt="Codeigniter" width="40" height="40"/>
 </div>
 
+<div id="header" align="center">
+  ## i think that's it!
+  <img src="https://media.giphy.com/media/fHWZdSc7viZJumuGbr/giphy.gif" width="200"/>
+</div>
 <!--
 **Galih-sans/Galih-sans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
