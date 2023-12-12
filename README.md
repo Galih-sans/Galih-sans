@@ -20,11 +20,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original-wordmark.svg" title="firebase" **alt="firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="firebase" **alt="firebase" width="40" height="40"/>&nbsp;
 </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/fHWZdSc7viZJumuGbr/giphy.gif" width="200"/>
-   i think that's it!
-</div>
 <!--
 **Galih-sans/Galih-sans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
