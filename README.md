@@ -1,4 +1,4 @@
-## my name is <del>Jeff</del> Galih Krisna Aji 👋
+## Hello!! my name is Galih Krisna Aji 👋
 
 <img src="https://github.com/hampusborgos/country-flags/blob/main/png250px/id.png" title="Java" alt="Java" width="40" height="40"/>&nbsp; 🇮🇩 <br>
 
